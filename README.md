@@ -1,8 +1,8 @@
 # GHOST
 Linux Audit Tools. x64 Platforms.
 Requires shar, sharutils and coreutils <br>
-
-$ ssh username@serverIP 'bash -s' < GHOST.run <br>
+$ bash GHOST.run  #Run Local <br>
+$ ssh username@serverIP 'bash -s' < GHOST.run #Run Remote<br>
 Returns: <br>
 $ not vulnerable <br>
 $ vulnerable <br>
