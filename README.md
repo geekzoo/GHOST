@@ -7,4 +7,7 @@ Returns: <br>
 $ not vulnerable <br>
 $ vulnerable <br>
 
+Test for Ubuntu 10.04, 12.04, 14.04 x64 May work on Debian, RedHat dists.<br>
+<u>Needed to audit 391 Linux servers and Ubuntu libc update doesn't bump version string.</u>
+
 <b>USE AT YOUR OWN RISK</b>
