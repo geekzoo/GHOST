@@ -2,8 +2,8 @@
 Linux Audit Tools
 
 $ ssh username@serverIP 'bash -s' < GHOST.run <br>
-Returns:
-$ not vulnerable
-$ vulnerable
+Returns: <br>
+$ not vulnerable <br>
+$ vulnerable <br>
 
-USE AT YOUR OWN RISK
+<b>USE AT YOUR OWN RISK</b>
